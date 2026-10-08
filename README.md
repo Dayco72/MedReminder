@@ -1,3 +1,5 @@
+
+https://www.figma.com/design/9tVkp4A7gZgpwz61eVb0q5/Sin-t%C3%ADtulo?node-id=0-1&t=qnviUEI0n3VhQiyZ-1
 ¡Quedaron excelentes las vistas en Figma! La jerarquía visual, los 4 estados de la tarjeta y la estructura de los formularios se ven limpios y listos para llevarse a código nativo en Android Studio.
 
 Aquí tienen el **plan estratégico de implementación**, los pasos a seguir para configurar el proyecto y la **división equitativa de código** entre tu compañero y tú.
